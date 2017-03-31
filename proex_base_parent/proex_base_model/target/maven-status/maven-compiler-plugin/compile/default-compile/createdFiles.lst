@@ -1,0 +1,12 @@
+br\net\proex\model\repository\SegMenuRepository.class
+br\net\proex\model\repository\SegBaseRevisionRepository.class
+br\net\proex\persistence\jpa\SegPerfilDAO.class
+br\net\proex\model\repository\SegUsuarioRepository.class
+br\net\proex\persistence\jpa\SegPerfilMenuDAO.class
+br\net\proex\model\repository\SegPefilRepository.class
+br\net\proex\persistence\jpa\AppJpaDAO.class
+br\net\proex\persistence\jpa\SegBaseRevisionDAO.class
+br\net\proex\persistence\jpa\SegMenuDAO.class
+br\net\proex\persistence\jpa\SegMenuCampoDAO.class
+br\net\proex\persistence\jpa\SegUsuarioDAO.class
+br\net\proex\facade\AppFacadeImpl.class
